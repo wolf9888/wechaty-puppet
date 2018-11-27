@@ -69,7 +69,7 @@
     "file-box": "^0.8.22"
   },
   "dependencies": {
-    "brolog": "^1.6.5",
+    "brolog": "^1.8.3",
     "clone-class": "^0.6.19",
     "hot-import": "^0.2.1",
     "normalize-package-data": "^2.4.0",
