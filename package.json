@@ -71,7 +71,7 @@
   "dependencies": {
     "brolog": "^1.6.5",
     "clone-class": "^0.6.19",
-    "hot-import": "^0.2.1",
+    "hot-import": "^0.2.5",
     "normalize-package-data": "^2.4.0",
     "quick-lru": "^2.0.0",
     "read-pkg-up": "^4.0.0",
