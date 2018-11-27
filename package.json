@@ -70,7 +70,7 @@
   },
   "dependencies": {
     "brolog": "^1.6.5",
-    "clone-class": "^0.6.19",
+    "clone-class": "^0.6.20",
     "hot-import": "^0.2.1",
     "normalize-package-data": "^2.4.0",
     "quick-lru": "^1.1.0",
